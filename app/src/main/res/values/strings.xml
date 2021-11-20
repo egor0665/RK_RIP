@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RK RIP</string>
+    <string name="numbers1_string">1234</string>
+    <string name="numbers2_string">3333</string>
+    <string name="numbers3_string">5678</string>
+    <string name="content_description_string">line</string>
+    <string name="plus_string">+</string>
+    <string name="minus_string">-</string>
+    <string name="divide_string">/</string>
+    <string name="multiply_string">*</string>
+</resources>
